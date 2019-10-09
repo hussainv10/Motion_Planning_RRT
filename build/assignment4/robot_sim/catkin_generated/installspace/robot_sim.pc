@@ -1,0 +1,8 @@
+prefix=/home/hussainv10/ros_wkspace_asgn4/install
+
+Name: robot_sim
+Description: Description of robot_sim
+Version: 0.0.0
+Cflags: -I/home/hussainv10/ros_wkspace_asgn4/install/include
+Libs: -L/home/hussainv10/ros_wkspace_asgn4/install/lib -lrobot_sim
+Requires: roscpp sensor_msgs trajectory_msgs urdf

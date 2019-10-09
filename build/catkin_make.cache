@@ -1,0 +1,2 @@
+assignment4/assignment4:assignment4/lwr_robot/lwr_defs:assignment4/lwr_robot_moveit_config:assignment4/motion_planning:assignment4/robot_sim:assignment4/urdf_parser_py
+-DCATKIN_DEVEL_PREFIX=/home/hussainv10/ros_wkspace_asgn4/devel -DCMAKE_INSTALL_PREFIX=/home/hussainv10/ros_wkspace_asgn4/install -G Unix Makefiles

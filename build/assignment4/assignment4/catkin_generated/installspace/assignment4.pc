@@ -1,0 +1,8 @@
+prefix=/home/hussainv10/ros_wkspace_asgn4/install
+
+Name: assignment4
+Description: Description of assignment4
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hussainv10/ros_wkspace_asgn4/install/lib 
+Requires: 

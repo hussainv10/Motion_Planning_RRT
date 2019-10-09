@@ -1,0 +1,8 @@
+prefix=/home/hussainv10/ros_wkspace_asgn4/install
+
+Name: urdfdom_py
+Description: Description of urdfdom_py
+Version: 0.3.3
+Cflags: 
+Libs: -L/home/hussainv10/ros_wkspace_asgn4/install/lib 
+Requires: 
